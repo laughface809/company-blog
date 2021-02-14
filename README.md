@@ -1,3 +1,3 @@
 # company-blog
 
-NUXT-GRAPHQL-MONGO
+Starter Pack
