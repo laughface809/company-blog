@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_pages_quotes",
+  "info": {
+    "name": "quote",
+    "icon": "assistive-listening-systems"
+  },
+  "options": {},
+  "attributes": {
+    "quote": {
+      "type": "text"
+    },
+    "quoter": {
+      "type": "string"
+    }
+  }
+}
